@@ -42,6 +42,7 @@ class Array2D
 		}
 		System.out.println("Addition of all element : "+add);
 		System.out.println();
+		
 		//-----------------------------------Subtraction---------------------------------------------
 		
 		int sub = 0;
@@ -61,6 +62,7 @@ class Array2D
 		}
 		System.out.println("Subtraction of all element : "+sub);
 		System.out.println();
+		
 		//-------------------------------------Multiplication---------------------------------
 		
 		int mul = 1;
