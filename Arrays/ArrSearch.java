@@ -21,6 +21,7 @@ class ArrSearch
 		}
 		System.out.println();
 		
+		//-----------------------------------------Search---------------------------------
 		
 		System.out.println("Search element : ");
 		int ele = sc.nextInt();
