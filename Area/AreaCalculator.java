@@ -75,9 +75,6 @@ class AreaCalculator
 	{
 		int choice;
 		AreaCalculator A1 = new AreaCalculator();
-		//AreaCalculator T1 = new AreaCalculator();
-		//AreaCalculator R1 = new AreaCalculator();
-		//AreaCalculator S1 = new AreaCalculator();
 		
 		System.out.println("1.Calculate Area Of Circle");
 		System.out.println("2.Calculate Area Of Triangle");
